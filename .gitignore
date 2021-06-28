@@ -1,0 +1,10 @@
+ops.json
+server.properties
+usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
+world
+minecraft_server_1.15.2.jar
+logs
+eula.txt
