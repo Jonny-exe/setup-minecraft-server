@@ -2,7 +2,7 @@
 A quick guide to set up a minecraft server on linux
 
 1. Make sure you have java installed. If not install it. If you are on a debian based system you can use `sudo apt install openjdk-11-jdk`
-2. Download the minecraft server from the official site. https://www.minecraft.net/en-us/download/server
+2. Download the minecraft server from the official site. https://www.minecraft.net/en-us/download/server . Then rename the file to server.jar
 3. Run the `run.sh` file. Don't worry if you get an erorr:
 4. Open eula.txt with your favorite text editor and change it from `eula=false` to `eula=true`.
 5. Run the `run.sh` file again and everything should be working. Enjoy
